@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @daxia-hu
-- 👀 I’m interested in eat
-- 🌱 I’m currently learning eat
-- 💞️ 
-- 📫 
-
-<!---
-daxia-hu/daxia-hu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 👀 🌱 💞️ 📫 
+```
+    人最宝贵的是生命。生命每个人只有一次。人的一生应当这样度过：当回忆往事的时候，他不会因为虚度年华而悔恨，也不会因碌碌无为而羞愧；
+在临死的时候，他能够说：“我的整个生命和全部精力，都已经献给了世界上最壮丽的事业——为人类的解放而斗争。”
+```
